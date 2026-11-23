@@ -1,0 +1,18 @@
+{
+  "time": "08:00",
+  "timezone": "UTC",
+  "regions": [],
+  "threshold": 85,
+  "max_packages": 5,
+  "sources": [
+    {
+      "name": "Example employer (replace before enabling)",
+      "url": "https://careers.example.org/jobs",
+      "pattern": "/jobs/\\d+",
+      "enabled": false
+    }
+  ],
+  "automatic_submission": false,
+  "include_studentships": false
+}
+

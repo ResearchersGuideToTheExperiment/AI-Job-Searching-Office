@@ -1,0 +1,20 @@
+EXAMPLE ONLY — fictional advertisement for testing, not an actual vacancy.
+Research Associate in Animal Behaviour
+Example University, Department of Biology
+Location: Berlin, Germany
+Job type: Full-time, fixed term for 24 months
+Deadline: 15 December 2026, 17:00 CET
+
+Eligibility: Applicants must hold a PhD in biology or a related discipline by the start date.
+Essential criteria: Experience designing behavioural experiments and analysing data in R is required.
+Desirable criteria: Experience with Python is preferred.
+
+Application requirements:
+You must upload a tailored CV and a motivation letter of no more than 500 words.
+You must provide contact details for two referees; reference letters are not required at this stage.
+Answer these selection questions in the portal:
+1. Describe your experience designing behavioural experiments (maximum 300 words).
+2. Explain your approach to reproducible data analysis (maximum 250 words).
+Register on the recruitment portal before submitting your application.
+Submit through the online recruitment portal at https://careers.example.org/jobs/RA-2026.
+Applications by email are not accepted.
