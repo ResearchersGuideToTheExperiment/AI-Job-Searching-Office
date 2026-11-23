@@ -16,12 +16,14 @@ You choose the sources, review the evidence, approve drafting, and submit applic
 - **Review:** track decisions, deadlines, document versions, and manually submitted applications.
 - **Local inference:** use Ollama on your own machine. Job discovery still requires internet access.
 
+<img width="574" height="1472" alt="image" src="https://github.com/user-attachments/assets/9e777a0b-99f6-406a-a430-8b77db0fa7f2" />
+
 This is an experimental personal tool. Review extracted facts, eligibility, deadlines, and documents before using them. A match score measures evidence coverage, not hiring probability.
 
 ## Suggested setup (Windows Command Prompt or PowerShell)
 
 1. Download and install [Python 3.14 for Windows](https://www.python.org/downloads/windows/). Include the Python launcher if the installer offers it. Python 3.14.3 is the version used for local validation.
-2. Download and install [Ollama for Windows](https://ollama.com/download/windows), then open Ollama. **Ollama** is the program that runs the AI model; this project's suggested model is **Qwen3 8B**. You do not need a paid API account or a separate Llama download.
+2. Download and install [Ollama for Windows](https://ollama.com/download/windows), then open Ollama. **Ollama** is the program that runs the AI model; this project's suggested minimum model is **Qwen3 8B**. (note that I used this model but more powerful version would surely give better results) You do not need a paid API account or a separate Llama download.
 3. Download this repository using **Code → Download ZIP** on GitHub and extract it, or clone it with Git.
 4. Open the extracted project folder in File Explorer. Click the address bar, type `cmd`, and press Enter. This opens Command Prompt in the correct folder. PowerShell also works.
 
@@ -74,6 +76,7 @@ Keep the server window open. Ctrl+C stops the dashboard; closing its process sto
 ## Make it your own
 
 A fresh installation has **no CV, profile facts, jobs, saved preferences, target countries, or configured sources**. Its time zone defaults to UTC.
+<img width="568" height="644" alt="image" src="https://github.com/user-attachments/assets/814b62e4-277a-4ccf-824d-0a44d6f15862" />
 
 1. **Settings:** test the local Ollama connection. Defaults are `http://localhost:11434` and `qwen3-office`.
 2. **My Profile:** your folder CV appears under **Original CV and supporting materials**. Choose **Extract / retry**, or upload a CV through the page. Correct mistakes and select **Confirm all reviewed information**. Only confirmed facts support evaluations and drafts.
